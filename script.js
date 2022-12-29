@@ -10,4 +10,15 @@ todoButton.addEventListener("click", addTodo);
 todoList.addEventListener("click", deleteCheck);
 filterOption.addEventListener("click", filterTodo);
 
+// Functions
+function addTodo(event) {}
 
+function deleteCheck(event) {}
+
+function filterTodo(event) {}
+
+function saveLocalTodos(todo) {}
+
+function removeLocalTodos(todo) {}
+
+function getTodos() {}
